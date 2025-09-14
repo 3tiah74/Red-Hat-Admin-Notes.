@@ -1,7 +1,5 @@
 # Red Hat System Administration I (RHCSA) - Summary Notes
 
-![Red Hat Logo](https://www.redhat.com/cms/managed-files/img-rh-brand-standard-logo-for-dark-backgrounds-128x49.png)
-
 This repository contains a comprehensive personal summary for the **Red Hat System Administration I (RHEL)** course, which serves as preparation for the **RHCSA (Red Hat Certified System Administrator)** certification exam.
 
 These notes were created to be a quick and organized reference for the core concepts and essential commands covered in each chapter of the course.
